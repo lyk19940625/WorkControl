@@ -1,7 +1,7 @@
 #综述
 使用该作业现场安全生产智能管控平台来实现变电站的安全生产的智能化管理，通过人脸识别功能进行人员的考勤；
 通过人员、车辆的检测和识别来实现变电站的智能化管理；通过安全行为识别和安全区域报警功能来实现对变电站内人员和设备安全的监督；
-
+![avatar](https://github.com/lyk19940625/WorkControl/blob/master/output.png)
 # 移动目标跟踪
 
 ## 介绍
@@ -94,4 +94,4 @@ Original Repo（Caffe）：https：//github.com/CMU-Perceptual-Computing-Lab/ope
 
 Dataloader和Post-processing代码来自tf-pose-estimation。
 
-![avatar]()
+![avatar](https://github.com/lyk19940625/WorkControl/blob/master/unofficial-openpose/graph_run.png)
