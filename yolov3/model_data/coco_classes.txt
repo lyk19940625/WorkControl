@@ -1,0 +1,4 @@
+safe wear
+unsafe wear
+no work cloths
+no helmet
